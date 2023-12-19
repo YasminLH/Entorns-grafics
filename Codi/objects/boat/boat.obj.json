@@ -1,0 +1,15 @@
+{
+  "created_at": "2023-10-26T13:15:46.146222",
+  "version": "0.1",
+  "mtllibs": [
+    "boat.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "Main",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 336960
+    }
+  ]
+}
